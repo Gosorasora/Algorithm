@@ -1,6 +1,6 @@
 import sys
 sys.setrecursionlimit(10000)
-#런타임 에러 발생해서 추가함 ! 
+#런타임 에러 발생해서 추가했음. 
 input = sys.stdin.readline
 
 #노드, 간선의 갯수
